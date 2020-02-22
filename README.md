@@ -1,2 +1,0 @@
-# SportsAppCode
-Sports App
